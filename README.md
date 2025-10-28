@@ -1,6 +1,3 @@
-Here’s a clear and professional **description** for your Python script 👇
-
----
 
 ### 🎵 **Description — Karaoke Lyrics Player (Python + Pygame)**
 
